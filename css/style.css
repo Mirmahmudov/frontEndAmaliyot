@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+h1 {
+    height: 500px;
+  text-align: center;
+  padding: 20px 0px;
+  background-image: url("https://static.vecteezy.com/system/resources/thumbnails/027/533/475/small/car-or-bike-smokie-background-realistic-ai-generative-free-photo.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  color: white;
+}
